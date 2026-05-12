@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+nav{
+    background-color: #333;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+header{
+    color: white;
+    background-image:url('https://arquitectura-sostenible.es/wp-content/uploads/2019/02/corcho-3.jpg');
+    text-align: center;
+    padding: 40px;
+    
+}
+
+section{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+h1, h2{
+    color: #2c3e50;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<nav>
+  <a href="#clima">Clima</a>
+  <a href="#aislamiento">Aislamiento</a>
+  <a href="#materiales">Materiales</a>
+  <a href="#corcho">Corcho</a>
+  <a href="#conclusion">Conclusión</a>
+</nav>
+
+<header>
+  <h1>Soluciones térmicas sustentables para viviendas.</h1>
+  <p>PROYECTO 10MO</p>
+</header>
+
+<section id="clima">
+  <h2>¿Qué es el clima desértico?</h2>
+  <ul>
+    <li>Altas temperaturas</li>
+    <li>Noches frías</li>
+    <li>Poca humedad</li>
+  </ul>
+  <img src= https://cdn0.ecologiaverde.com/es/posts/8/5/9/flora_del_clima_desertico_4958_3_600.webp width=500>
+</section>
+<section id="aislamiento">
+  <h2>¿Qué es el aislamiento térmico?</h2>
+  <ul>
+    <li>Altas temperaturas</li>
+    <li>Noches frías</li>
+    <li>Poca humedad</li>
+  </ul>
+  <img src=https://lundserviciosintegrales.com/wp-content/uploads/2024/12/esquema-general-1.png  width=500>
+   </section>
+   
+<section id="materiales">
+  <h2>Materiales</h2>
+  <ul>
+    <li>Altas temperaturas</li>
+    <li>Noches frías</li>
+    <li>Poca humedad</li>
+  </ul>
+</section>
+<section id="corcho">
+  <h2>Corcho vegetal</h2>
+  <ul>
+    <li>Altas temperaturas</li>
+    <li>Noches frías</li>
+    <li>Poca humedad</li>
+  </ul>
+</section>
+<section id="conclusion">
+  <h2>¿Qué es el clima desértico?</h2>
+  <ul>
+    <li>Altas temperaturas</li>
+    <li>Noches frías</li>
+    <li>Poca humedad</li>
+  </ul>
+</section>
+
+<footer>
+  <p>Proyecto escolar - 2026</p>
+</footer>
+
+</body>
+</html>
